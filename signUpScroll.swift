@@ -1,0 +1,20 @@
+//
+//  signUpScroll.swift
+//  ServicioSocial
+//
+//  Created by UNAM FCA 17 on 29/03/22.
+//
+
+import UIKit
+
+class signUpScroll: UIScrollView {
+
+    /*
+    // Only override draw() if you perform custom drawing.
+    // An empty implementation adversely affects performance during animation.
+    override func draw(_ rect: CGRect) {
+        // Drawing code
+    }
+    */
+
+}
